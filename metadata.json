@@ -1,0 +1,6 @@
+{
+  "name": "Adhoc Logistics Chat",
+  "description": "An interactive logistics chat application that checks Escape Routes, Carrier Dashboards, and SSP compliance step-by-step.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
